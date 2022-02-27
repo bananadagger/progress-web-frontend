@@ -1,9 +1,15 @@
+@import '~antd/dist/antd.css';
+
 html,
 body {
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+body main {
+  background-color: rgb(203, 213, 223);
 }
 
 a {

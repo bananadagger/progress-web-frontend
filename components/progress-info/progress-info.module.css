@@ -1,0 +1,9 @@
+.progressInfoContainer {
+  display: flex;
+}
+
+.overAllProgressBar {
+  width: 20vw;
+  min-width: 100px;
+  padding-left: 20px;
+}
